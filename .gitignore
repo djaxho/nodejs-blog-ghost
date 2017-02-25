@@ -1,9 +1,9 @@
 # Ignore everything
-*
+/core
+/node_modules
+config.js
+index.js
+README.md
+PRIVACY.md
+LICENSE
 
-# But not these files...
-!.gitignore
-!content/data*
-!content/images*
-!content/themes*
-!package.json
